@@ -1,6 +1,9 @@
 # Open Energy Dashboard #
 [![Build Status](https://travis-ci.org/OpenEnergyDashboard/OED.svg?branch=master)](https://travis-ci.org/OpenEnergyDashboard/OED)
 
+## Archived version
+The Open Energy Dashboard is now hosted on its own [GitHub account](https://github.com/OpenEnergyDashboard/OED). This is now historical information and all people interested in developing or using OED should go to that site instead.
+
 Open Energy Dashboard is a user-friendly way to display energy information from smart energy meters, designed and built by faculty and students at Beloit College. It is designed for institutions of higher education, and is optimized for non-technical users with a simple interface that provides access to your institution's energy data through the powerful Chart.js data graphing system. To learn more, see [our website](https://openenergydashboard.github.io/).
 
 Open Energy Dashboard is available under the Mozilla Public Licence v2, and contributions, in the form of bug reports, feature requests, and code contributions, are welcome.
